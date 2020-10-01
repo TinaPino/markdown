@@ -1,0 +1,22 @@
+.wrapper{
+
+font-family: 'Roboto Condensed', sans-serif;
+padding: .5em;
+
+}
+
+.header{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #78ad85;
+  padding: .5em;
+}
+
+.bolded{
+  font-weight: bold;
+}
+
+.footer{
+  font-size: 2.5em;
+  padding:  0em 0em 1em 0em;
+  background-color: #78ad85;
+}
